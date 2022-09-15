@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+I designed this website using with bootstrap template a years ago.
 
-Template Name: MyBiz
-Template URL: https://bootstrapmade.com/mybiz-free-business-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+After I bought uckanaku.com domain on domain website.
+
+After I published with hosting firm.
